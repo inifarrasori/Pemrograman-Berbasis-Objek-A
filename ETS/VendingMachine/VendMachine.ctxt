@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=VendMachine
+comment1.params=
+comment1.target=VendMachine()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ VendMachine\r\n
+comment2.params=coffee
+comment2.target=void\ brew(Coffee)
+comment3.params=
+comment3.target=void\ refill()
+comment4.params=
+comment4.target=void\ showMenu()
+comment5.params=
+comment5.target=void\ adminview()
+comment6.params=
+comment6.target=void\ menu()
+numComments=7

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Clock
+comment1.params=
+comment1.target=Clock()
+comment2.params=hour\ minute\ second
+comment2.target=Clock(int,\ int,\ int)
+comment3.params=
+comment3.target=void\ start()
+comment4.params=
+comment4.target=void\ stop()
+comment5.params=
+comment5.target=void\ step()
+comment6.params=
+comment6.target=void\ quit()
+comment7.params=
+comment7.target=void\ showAbout()
+comment8.params=
+comment8.target=void\ makeFrame()
+comment9.params=frame
+comment9.target=void\ makeMenuBar(javax.swing.JFrame)
+numComments=10

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=AcademicResponder
+comment1.params=
+comment1.target=AcademicResponder()
+comment2.params=userInput
+comment2.target=java.lang.String\ generateResponse(java.lang.String)
+comment3.params=
+comment3.target=void\ fillKnowledgeBase()
+comment4.params=
+comment4.target=void\ fillGenericResponses()
+numComments=5

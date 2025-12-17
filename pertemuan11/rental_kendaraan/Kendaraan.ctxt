@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Kendaraan
+comment1.params=merk\ model\ tahunProduksi
+comment1.target=Kendaraan(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ sewa()
+comment3.params=
+comment3.target=void\ kembalikan()
+comment4.params=
+comment4.target=boolean\ isTersedia()
+comment5.params=
+comment5.target=java.lang.String\ getMerk()
+comment6.params=
+comment6.target=java.lang.String\ getModel()
+comment7.params=
+comment7.target=java.lang.String\ getDetailInfo()
+numComments=8

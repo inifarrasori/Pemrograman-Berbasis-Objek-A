@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=
+comment1.target=Main()
+comment2.params=k
+comment2.target=void\ tambahKendaraan(Kendaraan)
+comment3.params=merk\ model\ namaPenyewa
+comment3.target=void\ sewaKendaraan(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment4.params=
+comment4.target=void\ tampilkanKendaraanTersedia()
+comment5.params=
+comment5.target=void\ tampilkanDaftarPenyewa()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
